@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+FMLCorePlugin: me.decce.ixeris.IxerisCoremod
+FMLCorePluginContainsFMLMod: true
+Created-By: Ixeris 1.7.10 Build

@@ -1,0 +1,20 @@
+{
+  "required": true,
+  "package": "me.decce.ixeris.mixins",
+  "compatibilityLevel": "JAVA_17",
+  "minVersion": "0.8",
+  "plugin": "me.decce.ixeris.IxerisMixinPlugin",
+  "client": [
+    "MainMixin",
+    "MinecraftMixin",
+    "MouseHandlerMixin",
+    "RenderSystemMixin",
+    "TitleScreenMixin",
+    "enhanced_fps_limiter.RenderSystemMixin",
+    "workarounds.WindowAccessor"
+  ],
+  "mixins": [],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}

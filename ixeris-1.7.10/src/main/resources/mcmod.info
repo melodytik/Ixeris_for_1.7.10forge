@@ -1,0 +1,14 @@
+[
+  {
+    "modid": "ixeris",
+    "name": "Ixeris",
+    "description": "Off-thread event polling for Minecraft 1.7.10. Moves Display.processMessages() to a separate thread to improve FPS when moving the mouse.",
+    "version": "1.7.10-1.0.0",
+    "mcversion": "1.7.10",
+    "authorList": ["decce (original), Nyx (1.7.10 port)"],
+    "url": "",
+    "logoFile": "",
+    "screenshots": [],
+    "dependencies": []
+  }
+]
